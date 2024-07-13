@@ -1,4 +1,6 @@
 import telebot
+import webbrowser
+from telebot import types
 
 
 bot = telebot.TeleBot('Key')
